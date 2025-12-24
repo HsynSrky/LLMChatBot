@@ -1,0 +1,13 @@
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\bin\Debug\LLMChatBot.exe.config
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\bin\Debug\LLMChatBot.exe
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\bin\Debug\LLMChatBot.pdb
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\obj\Debug\LLMChatBot.csproj.AssemblyReference.cache
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\obj\Debug\LLMChatBot.Form1.resources
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\obj\Debug\LLMChatBot.Properties.Resources.resources
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\obj\Debug\LLMChatBot.csproj.GenerateResource.cache
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\obj\Debug\LLMChatBot.csproj.CoreCompileInputs.cache
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\obj\Debug\LLMChatBot.csproj.Up2Date
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\obj\Debug\LLMChatBot.exe
+C:\Users\theri\source\repos\LLMChatBot\LLMChatBot\obj\Debug\LLMChatBot.pdb
